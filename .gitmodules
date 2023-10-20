@@ -1,0 +1,3 @@
+[submodule "submodule-js"]
+	path = submodule-js
+	url = https://github.com/Racklyn/submodule-js.git
